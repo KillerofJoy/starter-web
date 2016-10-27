@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Jeremy Jenkins  jdjpainting1@gmail.com
 
 # THANKS
 
